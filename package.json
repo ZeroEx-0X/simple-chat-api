@@ -1,0 +1,14 @@
+{
+  "name": "zeroex-simsimi",
+  "version": "1.0.0",
+  "description": "A simple JSON-based Simsimi-style chatbot API",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.4",
+    "fs-extra": "^11.1.1"
+  }
+}
